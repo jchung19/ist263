@@ -1,0 +1,6 @@
+body {font-family: 'Courier New', Courier, monospace;}
+h1 {color: #ffb6cf}
+.special {color: paleturquoise}
+tr .evenrow {
+    background-color: bisque; 
+}
