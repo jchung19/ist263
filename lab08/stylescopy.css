@@ -29,10 +29,23 @@ nav a:hover {
     display: flex;
     background-color: #f01645;
     padding: 20px;
-    border-radius: 1em;    
+    border-radius: 1em;  
 }
 .contact {
     display: flex;
-    background-color: #f2bfbf
+    background-color: #f2bfbf;
     padding: 20px; 
-    border-radius: 1em;}
+    border-radius: 1em;
+}
+.map {
+    display: flex; 
+    background-color: #f01645;
+    padding: 20px; 
+    border-radius: 1em;
+}
+.email {
+    display: flex; 
+    background-color: #f2bfbf; 
+    padding: 20px; 
+    border-radius: 1em;
+}
