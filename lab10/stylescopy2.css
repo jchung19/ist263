@@ -1,0 +1,59 @@
+body { 
+    background-color: #ffffff;
+}
+link {
+    color:#3e41f0;
+}
+h1 {
+    color: #000000;
+}
+nav {
+    background-color: #f05656;
+    padding: 80px;
+    margin-bottom: 30px;
+    max-width: 100%;
+    display: none;
+}
+nav a {
+    color:#f0f2bf;
+}
+nav a:hover {
+    background-color: #f2bfbf;
+}
+.year {
+    float: left;
+}
+.quote {
+    display: flex;
+    float: right;
+}
+.address {
+    display: flex;
+    background-color: #f01645;
+    padding: 20px;
+    border-radius: 1em;  
+}
+.contact {
+    display: flex;
+    background-color: #f2bfbf;
+    padding: 20px; 
+    border-radius: 1em;
+    flex-wrap: wrap;
+}
+.map {
+    display: flex; 
+    background-color: #f01645;
+    padding: 20px; 
+    border-radius: 1em;
+    flex-wrap: wrap;
+}
+.email {
+    display: flex; 
+    background-color: #f2bfbf; 
+    padding: 20px; 
+    border-radius: 1em;
+}
+.header {
+    max-width: 100%
+}
+@media only screen and (min-width:600px) {}
