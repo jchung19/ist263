@@ -1,0 +1,21 @@
+body {
+    font-family: optima;
+}
+link {
+    color:#1444f5;
+}
+nav {
+    background-color:#14c8f5;
+    padding: 60px; 
+    margin-bottom: 30px;
+}
+nav a:hover {
+    color:#1423f5;
+}
+img {
+    padding: 80px; 
+    margin-bottom: 30px;
+}
+button {
+    font-family: optima;
+}
